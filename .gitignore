@@ -1,0 +1,7 @@
+node_modules/
+.env
+
+# Ignore service account files
+service-account.json
+service-account-*.json
+bigquery-config.json
